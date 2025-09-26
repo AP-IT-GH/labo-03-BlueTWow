@@ -1,0 +1,40 @@
+.hoofdding {
+    border: 2px black;
+    border-style: solid;
+    border-color: black;
+}
+
+.hoofdtitel {
+    border: 2px black;
+    border-style: solid;
+    border-color: black;
+}
+
+.navigatie {
+    border: 2px black;
+    border-style: solid;
+    width: 50%;
+}
+
+.rodeborder {
+    border:2px dotted;
+    border-color: red;
+    width: 62%;
+}
+
+.oranjeborder {
+    border: 2px dotted;
+    border-color: orange;
+    width: 62%;
+}
+
+.zijbalk {
+    border: 2px solid;
+    border-color: black;
+    width: 40%;
+}
+
+.voeteinde {
+    border: 2px solid;
+    border-color: black;
+}
