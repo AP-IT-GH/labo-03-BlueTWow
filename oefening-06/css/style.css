@@ -1,0 +1,147 @@
+body {
+    background-color: rgb(161, 161, 161);
+}
+
+h1 {
+    border: 2px;
+    background-color: rgb(216, 216, 216);
+    color: rgb(85, 85, 85);
+    padding: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ALK1 {
+    border: 5px none;
+    background-color: rgb(20, 129, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ALK2 {
+    border: 5px none;
+    background-color: rgb(45, 143, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ALK3 {
+    border: 5px none;
+    background-color: rgb(64, 153, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ALK4 {
+    border: 5px none;
+    background-color: rgb(81, 162, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ALK5 {
+    border: 5px none;
+    background-color: rgb(104, 174, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ALK6 {
+    border: 5px none;
+    background-color: rgb(120, 183, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ALK7 {
+    border: 5px none;
+    background-color: rgb(142, 195, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.NEUTRAL {
+    border: 5px none;
+    background-color: rgb(44, 182, 129);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ACID1 {
+    border: 5px none;
+    background-color: rgb(255, 180, 211);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+
+.ACID2 {
+    border: 5px none;
+    background-color: rgb(253, 160, 199);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ACID3 {
+    border: 5px none;
+    background-color: rgb(255, 138, 187);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ACID4 {
+    border: 5px none;
+    background-color: rgb(255, 120, 176);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ACID5 {
+    border: 5px none;
+    background-color: rgb(255, 100, 165);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ACID6 {
+    border: 5px none;
+    background-color: rgb(255, 83, 154);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}
+
+.ACID7 {
+    border: 5px none;
+    background-color: rgb(255, 61, 142);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: small;
+    padding: 5px;
+}

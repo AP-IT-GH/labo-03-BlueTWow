@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(43, 153, 226);
+    text-shadow: 1px 1px 3px black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.div1 {
+    color: rgb(91, 161, 241);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.div2 {
+    color: rgb(45, 111, 172);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: rgb(33, 87, 150);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
